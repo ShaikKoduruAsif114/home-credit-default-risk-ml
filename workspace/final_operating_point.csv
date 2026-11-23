@@ -1,0 +1,2 @@
+Threshold,Precision,Recall,F1,True Negatives,False Positives,False Negatives,True Positives
+0.15977,0.2586229337498373,0.4002014098690836,0.3141998734977862,50842,5696,2978,1987

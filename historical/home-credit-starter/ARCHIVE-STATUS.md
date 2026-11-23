@@ -1,0 +1,3 @@
+# Archive status
+
+This separate historical starter scaffold is not the validated final pipeline. Its original README is retained verbatim: metric tables marked for replacement are placeholders, not verified project results, and deployment claims/URLs are unverified. See the root [README](../../README.md), [experiment lineage](../../docs/EXPERIMENTS.md), [data/publication boundary](../../docs/DATA.md), and [reproducibility limits](../../docs/REPRODUCIBILITY.md) for current assertions. Public notebooks are source-only; full-output originals are private. Current output stripping does not remove earlier public commits.

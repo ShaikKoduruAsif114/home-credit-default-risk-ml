@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "description": "Current public source-only notebook archive. Hashes are raw bytes; .gitattributes disables newline conversion. Manifest excludes itself. Full-output originals are private. Current-tree exclusions do not assert historical absence; output stripping does not erase earlier public commits.",
+  "base_commit": "900613733b7bff34b89490965994f448e7a0af8a",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 82,
+      "sha256": "6b80a3122a88d99f6489ffca6485752a3a1c69e65d9483624b259b3c84077c1d",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 612,
+      "sha256": "0053769b9f58f4417045f34f6947f77eb5953e289a98f059553af9570179db5c",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "credit.ipynb",
+      "bytes": 400342,
+      "sha256": "b39e71ebf364cbbe30d3acf15f906744127b8b1dee037b9a29e522c31dd547e7",
+      "kind": "historical-notebook"
+    },
+    {
+      "path": "docs/DATA.md",
+      "bytes": 2942,
+      "sha256": "fdb3757947f7f60b53ef3b1dd1f51e7fc99693126a4e96c828b913ed0b7f2531",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "docs/EXPERIMENTS.md",
+      "bytes": 4120,
+      "sha256": "861b098570fb04d2b771c4470d3c43e4f3d1e4d06763981d3be7093569a29b69",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 4143,
+      "sha256": "c3c9ce1478443a7af63bf3aef9dcc4b7b493917a44af70d7437d5578a8db3882",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/.gitignore",
+      "bytes": 65,
+      "sha256": "b987731626a46d858239cc1a1ec5d71396621ccf4de41ef7421331043d12760f",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/api/__init__.py",
+      "bytes": 19,
+      "sha256": "ac1abcbffeebc64ee71555c4a350c991edd6c1ab4e4ad758533ae4c2635a8e27",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/api/main.py",
+      "bytes": 5767,
+      "sha256": "42c7a46b627724ae680d6222b3503cd4edb73f18c4eb726ad3dd906c8de70cb2",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/api/schemas.py",
+      "bytes": 2693,
+      "sha256": "c77864861a3cb270222164c589447943d49c473c072afa692b4a244c23c53c19",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/ARCHIVE-STATUS.md",
+      "bytes": 623,
+      "sha256": "3c7dcf7bf9878961197e3b4967e8404c4b89fee850fcf4ebe7bdc8013f877b46",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/Dockerfile",
+      "bytes": 223,
+      "sha256": "54e4340307f7efa851375334b316cce2911fe6099a4ea8037c5860186d45038f",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/mlflow_server.py",
+      "bytes": 361,
+      "sha256": "5c9b7816c62d28fc8dbf9ef646cfb3264ecaff6a0edfecf6f8d62f5ecbbd9156",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/README.md",
+      "bytes": 4058,
+      "sha256": "c3664527a10b9aacc3af65e35c50677f16de61b9d50f26116fb9d1e428c20498",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/requirements.txt",
+      "bytes": 280,
+      "sha256": "c226ff4844a34e0ce710649cc537b56018f033c668b3da4367a243721e77ddb3",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/__init__.py",
+      "bytes": 19,
+      "sha256": "73b8abd879eaac2d9f49af371b7056fc2b02146a85c09df3091411609ac1a534",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/credit_risk/__init__.py",
+      "bytes": 31,
+      "sha256": "e990de8e3c701faa64e7e2902fa9392a9dacb597299f055492efc4b38d222f05",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/credit_risk/evaluate.py",
+      "bytes": 2567,
+      "sha256": "d0a2cb7e55e220b3fea23137ec5e0bf67869a2595679c6b9a7da30f27c5a61b5",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/credit_risk/preprocess.py",
+      "bytes": 2731,
+      "sha256": "f5f0176eef7f69c499ec7a5c71ec2644ee3a2b55c4fb0b5c6d3dc1eee38ff53f",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/credit_risk/train.py",
+      "bytes": 5913,
+      "sha256": "7e699e56f39e1e7336ae44a326bfe79d45f5b4a1fe84c912ba5cf5b714854da2",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/fraud/__init__.py",
+      "bytes": 25,
+      "sha256": "a52ed34938c284aea77b91799ae3a058c4f9f5dcebf441a8a8b1e4680f81cf1c",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/fraud/evaluate.py",
+      "bytes": 2768,
+      "sha256": "874c4e4e528b9fcc713ca3db400e03122fef5df3b6d9fa9e003c11e56f12785d",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/fraud/preprocess.py",
+      "bytes": 1591,
+      "sha256": "9b5131b5120392b6ffb788e080a6b5cc884e06a88775a8b06f08b71d19b08278",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "historical/home-credit-starter/src/fraud/train.py",
+      "bytes": 6607,
+      "sha256": "6700989ce27adfb9f8a6bbc89c3c816de02002dd57330c471a4b5aec0956ecdd",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "notebooks/local-copies/mode-notebooks-code-copy.ipynb",
+      "bytes": 400342,
+      "sha256": "b39e71ebf364cbbe30d3acf15f906744127b8b1dee037b9a29e522c31dd547e7",
+      "kind": "historical-notebook"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5381,
+      "sha256": "2a88106bb689a1d09d9f933c0a059902c0eea38ab0341ea1a281284afa1a9159",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/deployment/app.py",
+      "bytes": 6197,
+      "sha256": "5be58e8893054fc8a1eac0039ae16f4d980a41f6289e7a8e9ba413b9190785bd",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/deployment/requirements.txt",
+      "bytes": 82,
+      "sha256": "6b87f910befa719e317fcd4b655bd7066b780b631579aa2e854e67ea967c3355",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/final_model_comparison.csv",
+      "bytes": 146,
+      "sha256": "77a65089f83bba5394e1a0c0fb3b62ad636556fa7ae10512af1b34e18bed7df4",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/final_operating_point.csv",
+      "bytes": 180,
+      "sha256": "997b9e918b22145dfa4d9f47e705c74dd4a5a49424ffc263d778199262d84b86",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/final_shap_importance.csv",
+      "bytes": 10651,
+      "sha256": "5034c8b4c5137a199cfd7e8bff7f79cf97b28fdc2228b952ee107bb8318dff92",
+      "kind": "source-or-documentation"
+    },
+    {
+      "path": "workspace/mode.ipynb",
+      "bytes": 399063,
+      "sha256": "fc60fef5d32e7e98a1d11d56687978e4249b16306d1efe22c405edec6638eba2",
+      "kind": "historical-notebook"
+    },
+    {
+      "path": "workspace/temp.ipynb",
+      "bytes": 2885,
+      "sha256": "d5164c35d8019560b870a6750a0769008ef73cc55b59e7aeab74178dbb20bd9a",
+      "kind": "historical-notebook"
+    }
+  ],
+  "notebook_source_parity": [
+    {
+      "path": "credit.ipynb",
+      "cells": 348,
+      "sha256": "b39e71ebf364cbbe30d3acf15f906744127b8b1dee037b9a29e522c31dd547e7",
+      "source_sha256": "be23020861784495b8485d0a800806c715aba8d48c476d12a301aba3fd3f9d30",
+      "original_backup_sha256": "c3aa81ee39d28a35565bbb7e6dd8900e7f88f47ef52156f9615ca0d596684038",
+      "source_and_cell_id_parity": true,
+      "saved_payloads_absent": true
+    },
+    {
+      "path": "notebooks/local-copies/mode-notebooks-code-copy.ipynb",
+      "cells": 348,
+      "sha256": "b39e71ebf364cbbe30d3acf15f906744127b8b1dee037b9a29e522c31dd547e7",
+      "source_sha256": "be23020861784495b8485d0a800806c715aba8d48c476d12a301aba3fd3f9d30",
+      "original_backup_sha256": "c3aa81ee39d28a35565bbb7e6dd8900e7f88f47ef52156f9615ca0d596684038",
+      "source_and_cell_id_parity": true,
+      "saved_payloads_absent": true
+    },
+    {
+      "path": "workspace/mode.ipynb",
+      "cells": 347,
+      "sha256": "fc60fef5d32e7e98a1d11d56687978e4249b16306d1efe22c405edec6638eba2",
+      "source_sha256": "24bde3a886574252fcae5ec01cbb6db604026f42e1130fec148974333921f33a",
+      "original_backup_sha256": "16ccf0f87f81d61e89c13f4cc319555dd509b5de4a4011b640991f488860a6b0",
+      "source_and_cell_id_parity": true,
+      "saved_payloads_absent": true
+    },
+    {
+      "path": "workspace/temp.ipynb",
+      "cells": 6,
+      "sha256": "d5164c35d8019560b870a6750a0769008ef73cc55b59e7aeab74178dbb20bd9a",
+      "source_sha256": "2f7724748f627465c72f9b64fb40baf26ecb99f64648f1f6a0c06a49cf65fa8e",
+      "original_backup_sha256": "abb0b7464f1f485dd9dd0b18db7b4ae99b44e4fa8ad9bead76e85c5d8dbce35a",
+      "source_and_cell_id_parity": true,
+      "saved_payloads_absent": true
+    }
+  ],
+  "excluded_categories": [
+    "raw competition data",
+    "model and preprocessing binaries",
+    "dataset archives and merged caches",
+    "private revision/session evidence",
+    "credentials and environments"
+  ]
+}

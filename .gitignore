@@ -1,0 +1,37 @@
+# Local-only data, model artifacts, archives and private context
+/private/
+/archives/
+/CONSOLIDATION.local.json
+/PUBLISH.local.json
+/security-scan.local.json
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+*.csv
+!workspace/final_model_comparison.csv
+!workspace/final_operating_point.csv
+!workspace/final_shap_importance.csv
+
+# Credentials, local environments and runtime files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+auth.json
+tokens.json
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Generated local verification material
+/.local-verification/
